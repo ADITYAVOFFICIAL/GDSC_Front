@@ -14,7 +14,7 @@
   </a>
 
 </p>
-<h1 align="center" >SIGKDD Student Chapter SRM KTR </h1>
+<h1 align="center" >DOWNED - README MARKDOWN PREVIEWER </h1>
 
   
 </p>
