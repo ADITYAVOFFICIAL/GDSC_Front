@@ -15,7 +15,7 @@ function Navbar() {
       <nav>
         <ul className="nav-menu">
           <li><a className='listy' rel="noreferrer" target='_blank' href="https://adityaver.netlify.app/"><FontAwesomeIcon icon={faChrome} /> Portfolio</a></li>
-          <li><a className='listy' rel="noreferrer" target='_blank' href="https://github.com/ADITYAVOFFICIAL/Autocomplete_ReactJS"><FontAwesomeIcon icon={faGithub} /> GitHub</a></li>
+          <li><a className='listy' rel="noreferrer" target='_blank' href="https://github.com/ADITYAVOFFICIAL/GDSC_Front"><FontAwesomeIcon icon={faGithub} /> GitHub</a></li>
           <li><a className='listy' rel="noreferrer" target='_blank' href="https://www.linkedin.com/in/aditya-verma-real/"><FontAwesomeIcon icon={faLinkedin} /> Linkedin</a></li>
           <li className="droppy">
             <button style={{color:"white",fontWeight:"bold"}} onClick={toggleDropdown}><FontAwesomeIcon icon={faReact} /> Other REACTJS Projects</button>
