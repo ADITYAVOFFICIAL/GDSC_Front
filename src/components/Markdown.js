@@ -18,10 +18,6 @@ import rehypeRaw from "rehype-raw";
 import rehypeSanitize from "rehype-sanitize";
 
 const Toolbar = ({ insertText }) => {
-  const handleInsertText = (text) => {
-    insertText(text);
-  };
-
 
   return (
     <div className="flex items-center gap-x-0.5 p-2 bg-#282c34 rounded-xl">
