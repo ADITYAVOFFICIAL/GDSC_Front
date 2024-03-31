@@ -1,5 +1,5 @@
 
-![Status](https://img.shields.io/website-up-down-green-red/https/srmsigkdd.vercel.app/.svg)
+![Status](https://img.shields.io/website-up-down-green-red/https/downedmarkdown.vercel.app/.svg)
 ![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/GDSC_Front.svg)
 ![Issues](https://img.shields.io/github/issues/ADITYAVOFFICIAL/GDSC_Front.svg)
 ![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/GDSC_Front.svg)
@@ -9,7 +9,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ADITYAVOFFICIAL/GDSC_Front)
 
 <p align="center">
-  <a href="srmsigkdd.vercel.app">
+  <a href="downedmarkdown.vercel.app">
     <img alt = "Logo" height="150" width="150" src = "https://raw.githubusercontent.com/ADITYAVOFFICIAL/GDSC_Front/main/public/favicon.png">
   </a>
 
