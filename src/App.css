@@ -1,0 +1,127 @@
+/* App.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App-header {
+  background-color: #282c34;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5px + 2vmin);
+  font-weight: bold;
+  color: black;
+}
+#markdownTextarea {
+  margin-right: 700px;
+  row-gap: 100px;
+}
+#markdownTextarea:placeholder-shown {
+  /* Styles for when textarea is empty */
+  color: gray; /* Example: Change text color to gray */
+  font-style: italic; /* Example: Italicize placeholder text */
+  
+}
+.para{
+  color:white!important;
+}
+
+.ully {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  width: 400px;
+  border: 2px solid #ccc;
+  border-radius: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+li {
+  padding: 12px 20px;
+  cursor: pointer;
+  transition: background-color 0.5s ease;
+  border-radius: 17px;
+  margin: 10px;
+}
+
+li:hover {
+  background-color: black;
+  color: white!important;
+}
+
+/* New styles for smaller screens */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Navbar.css */
+
+.nav-menu {
+  display: flex; /* Display items horizontally */
+  justify-content: space-around; /* Evenly distribute items along the main axis */
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove default padding */
+  width: 100%; /* Make the navbar occupy full width */
+  background-color: #282c34;
+  border-radius: 0px;
+  border-color: #282c34;
+}
+
+.nav-menu li {
+  margin: 20px; /* Remove margin */
+}
+
+.nav-menu li a {
+  color: white; /* Set link color */
+  text-decoration: none; /* Remove underline */
+  font-weight: bold; /* Set font weight */
+}
+
+.nav-menu li a:hover {
+  color: black; /* Change link color on hover */
+}
+.navbar-separator {
+  margin: 0; /* Remove default margin */
+  border: 0; /* Remove default border */
+  height: 1px; /* Set height of separator */
+  background-color: #282c34; /* Set color of separator */
+  opacity: 0.2; /* Set opacity to 20% */
+}
+
+.footer {
+  width: 100%;
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-weight: bold;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.selected {
+  color: white;
+  font-size: 20px;
+}
+
+.droppy-menu {
+  display: none;
+  position: absolute;
+  background-color: #282c34;
+  min-width: 100px;
+  box-shadow: -8px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  left: auto; /* Reset the left position */
+  right: 0; /* Position the dropdown box from the right */
+}
+
+.droppy-menu.show {
+  display: block;
+}
+
+
