@@ -19,18 +19,14 @@
   
 </p>
 
-Welcome to the official GitHub repository of the ACM SIGKDD Student Chapter at SRM Institute of Science and Technology, Kattankulathur!
-
-This repository serves as the central hub for our Special Interest Group on Knowledge Discovery in Data (SIGKDD) activities. Join us as we explore the fascinating realm of data science and machine learning.
-
-Founded in 2024, our chapter is dedicated to fostering learning, collaboration, and innovation in data science within the SRM community and beyond. Stay tuned for exciting projects, resources, and events. Let's unlock the potential of data together!
+This GitHub repository serves as a platform for the GDSC SRM recruitment process, offering a preview of the front-end markdown.
 <br>
 
 ## Setting Up Downed
 
 1. Installing Dependencies:
     ```bash
-       npm install
+       npm installQ
 
 2. Starting the Server:
     ```bash
