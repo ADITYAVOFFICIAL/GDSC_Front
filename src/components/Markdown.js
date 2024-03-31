@@ -84,7 +84,7 @@ const MarkdownEditor = () => {
   <h1 align="center">Downed - Markdown Previewer</h1>
 
   <p align="center">
-  <a href="https://downedmarkdown.netlify.app/">
+  <a href="downedmarkdown.vercel.app">
     <img alt = "Downed Logo" width="250" src = "https://raw.githubusercontent.com/ADITYAVOFFICIAL/GDSC_Front/main/public/favicon.png">
   </a>
 
