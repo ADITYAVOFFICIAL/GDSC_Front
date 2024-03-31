@@ -80,6 +80,12 @@ const Toolbar = ({ insertText }) => {
 const MarkdownEditor = () => {
   const defaultMarkdown = `
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+  <p align="center">
+  <a href="https://downedmarkdown.netlify.app/">
+    <img alt = "Downed Logo" width="250" src = "https://raw.githubusercontent.com/ADITYAVOFFICIAL/GDSC_Front/main/public/favicon.png">
+  </a>
+
   # Project Title
 
 Simple overview of use/purpose.
