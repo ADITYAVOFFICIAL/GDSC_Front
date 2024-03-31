@@ -1,70 +1,78 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Status](https://img.shields.io/website-up-down-green-red/https/srmsigkdd.vercel.app/.svg)
+![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/GDSC_Front.svg)
+![Issues](https://img.shields.io/github/issues/ADITYAVOFFICIAL/GDSC_Front.svg)
+![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/GDSC_Front.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/GDSC_Front.svg)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![GitHub repo size](https://img.shields.io/github/repo-size/ADITYAVOFFICIAL/GDSC_Front)
 
-## Available Scripts
+<p align="center">
+  <a href="srmsigkdd.vercel.app">
+    <img alt = "Logo" height="150" width="150" src = "https://raw.githubusercontent.com/ADITYAVOFFICIAL/GDSC_Front/main/public/favicon.png">
+  </a>
 
-In the project directory, you can run:
+</p>
+<h1 align="center" >SIGKDD Student Chapter SRM KTR </h1>
 
-### `npm start`
+  
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Welcome to the official GitHub repository of the ACM SIGKDD Student Chapter at SRM Institute of Science and Technology, Kattankulathur!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This repository serves as the central hub for our Special Interest Group on Knowledge Discovery in Data (SIGKDD) activities. Join us as we explore the fascinating realm of data science and machine learning.
 
-### `npm test`
+Founded in 2024, our chapter is dedicated to fostering learning, collaboration, and innovation in data science within the SRM community and beyond. Stay tuned for exciting projects, resources, and events. Let's unlock the potential of data together!
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Setting Up Downed
 
-### `npm run build`
+1. Installing Dependencies:
+    ```bash
+       npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Starting the Server:
+    ```bash
+      npm start
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p>Running website on Local Host</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```mermaid
+flowchart LR
+A(Round)
+A[Git Clone] --> B(Round)
+C(Round)
+B[Open Folder] --> C[npm install] -->D[npm start]
+```
 
-### `npm run eject`
+<div><h2><strong>Developer of this project 🔻</strong></h2></div>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<table align="center">
+<tr align="center">
+<td>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**ADITYA VERMA**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="center">
+<img src = "https://raw.githubusercontent.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/main/pics/adityav.png"  height="120" alt="Aditya Verma">
+</p>
+<p align="center">
+<a href = "https://github.com/ADITYAVOFFICIAL"><img src = "https://img.icons8.com/3d-fluency/94/github.png" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aditya-verma-real/">
+<img src = "https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/>
+</a>
+<a href = "https://medium.com/@adityaver">
+<img src = "https://img.icons8.com/stickers/100/medium-logo.png" width="36" height="36"/>
+</a>
+</p>
+</td>
+</table>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ ## Current Contributors 🔻
+<div align="center">
+  <a href="https://github.com/ADITYAVOFFICIAL/GDSC_Front/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ADITYAVOFFICIAL/GDSC_Front" />
+</a>
+</div>
