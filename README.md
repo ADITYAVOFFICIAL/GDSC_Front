@@ -26,7 +26,7 @@ This GitHub repository serves as a platform for the GDSC SRM recruitment process
 
 1. Installing Dependencies:
     ```bash
-       npm installQ
+       npm install
 
 2. Starting the Server:
     ```bash
