@@ -45,6 +45,9 @@ li {
   border-radius: 17px;
   margin: 10px;
 }
+.listy:hover{
+  color: white!important;
+}
 
 li:hover {
   background-color: black;
