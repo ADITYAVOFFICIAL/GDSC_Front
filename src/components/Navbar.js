@@ -22,7 +22,7 @@ function Navbar() {
             <ul className={`droppy-menu ${dropdownOpen ? 'show' : ''}`}>
               <li><a className='listy' rel="noreferrer" target='_blank' href="https://autocompsearch.vercel.app/">Auto-complete Searchbar</a></li>
               <li><a className='listy' rel="noreferrer" target='_blank' href="https://srmsigkdd.vercel.app/home">SIGKDD Website</a></li>
-              <li><a rel="noreferrer" target='_blank' href="https://fortuna-mavericks.vercel.app/">Fortuna</a></li>
+              <li><a className='listy' rel="noreferrer" target='_blank' href="https://fortuna-mavericks.vercel.app/">Fortuna</a></li>
             </ul>
           </li>
         </ul>
